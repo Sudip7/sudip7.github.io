@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My first blog post"
+auther: Sudip Nayak
 date:   2018-01-13
 categories: personal
 ---
