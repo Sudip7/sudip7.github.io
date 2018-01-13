@@ -1,7 +1,9 @@
-Sudip Nayak:
-  name: "Sudip Nayak"
-  uri: "https://sudip7.github.io/"
-  email: ""
+--- 
+? "Sudip Nayak"
+: 
+  avatar: /assets/images/bio-photo.jpg
   bio: "If opportunity doesn’t knock, build a door."
-  avatar: "/assets/images/bio-photo.jpg"
-  twitter: "iSudip7"
+  email: ""
+  name: "Sudip Nayak"
+  twitter: iSudip7
+  uri: "https://sudip7.github.io/"
