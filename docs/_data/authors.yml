@@ -1,18 +1,10 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
+Sudip Nayak:
+  name        : "Sudip Nayak"
+  uri         : "https://sudip7.github.io"
   email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
-
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
+  bio         : "If opportunity doesn’t knock, build a door."
   avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
+  twitter     : "iSudip7"
+  google_plus : #""
