@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-    username               : #&twitter "iSudip7"
+    username               : &twitter "iSudip7"
 facebook:
   username               :
   app_id                 :
