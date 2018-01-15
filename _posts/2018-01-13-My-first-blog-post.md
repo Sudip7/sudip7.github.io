@@ -1,5 +1,9 @@
 ---
 title:  "My first blog post"
+categories:
+  - Personal
+tags:
+  - thoughts
 auther: Sudip Nayak
 date:   2018-01-13
 ---
