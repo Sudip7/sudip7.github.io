@@ -5,7 +5,7 @@ categories:
   - til
 tags:
   - Jekyll
-  -Staticman
+  - Staticman
 auther: Sudip Nayak
 date:   2018-01-16
 ---
