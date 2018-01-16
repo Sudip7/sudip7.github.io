@@ -2,6 +2,7 @@
 title:  "Jekyll static comments with Staticman"
 categories:
   - technology
+  - til
 tags:
   - Jekyll
   -Staticman
@@ -26,5 +27,6 @@ along with the rest of other content. It has below advantage/characterstics
 Need to add more detail with updated post. 
 
 Reference : https://mademistakes.com/articles/jekyll-static-comments/
-            https://staticman.net/
+           
+           https://staticman.net/
 
