@@ -25,6 +25,8 @@ https://www.ibm.com/blogs/cloud-computing/2015/10/3-characteristics-of-an-effect
 
 https://blog.newrelic.com/2015/06/08/cloud-career-part-1/
 
+https://blog.newrelic.com/2015/06/10/cloud-career-part-2/
+
 https://www.lynda.com/learning-paths/Developer/become-a-cloud-developer
 
 2. As I really like to be developer not just for my day job but as person, I seek opinion from different people most prominently
