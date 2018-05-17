@@ -17,7 +17,7 @@
 # Site wide configuration
 
 
-title                    : "Sudip7's personal blog"
+title                    : "Sudip Nayak personal blog"
 description              : "for personal and profession content"
 logo                     : #"/assets/images/android-chrome-384x384.png"
 teaser                   : #"/assets/images/default-teaser.png"
@@ -35,16 +35,16 @@ social:
 # Site owner
 author:
   name                   : "Sudip Nayak"
-  uri                    : #&uri "https://mademistakes.com/about/"
+  uri                    : #&uri ""
   url                    : #*uri
   bio                    : "Create an opportunity for yourself if you don't get one"
-  picture                : #"/assets/images/michael-rose-glitched.jpg"
+  picture                : #""
   twitter                : *twitter
-  facebook               : #"https://www.facebook.com/michaelrose"
-  instagram              : #"https://www.instagram.com/mmistakes/"
-  tumblr                 : #"http://mademistakes.tumblr.com/"
+  facebook               : #""
+  instagram              : #""
+  tumblr                 : #""
   github                 : Sudip7
-  google_plus            : #"https://plus.google.com/+MichaelRoseDesign/posts"
+  google_plus            : #""
 
 twitter:
   username               : "iSudip7"
@@ -108,6 +108,6 @@ defaults:
       read_time: true
       author_profile: true
       read_time: true
-      comments:  true
+      comments:
       share: true
       related: true
