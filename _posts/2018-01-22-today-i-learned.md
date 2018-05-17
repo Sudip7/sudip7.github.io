@@ -29,22 +29,20 @@ https://blog.newrelic.com/2015/06/10/cloud-career-part-2/
 
 https://www.lynda.com/learning-paths/Developer/become-a-cloud-developer
 
-2. As I really like to be developer not just for my day job but as person, I seek opinion from different people most prominently
-twitter. Had a brief chat followed by email communication with Software Engineer Daily Host : Jeff. I really enjoy his podcast. It's 
-my daily dose of getting new ideas on technology. Here are some of suggestions I may look into.
+2. As I really like to be developer not just for my day job but as person, I seek opinion from different people most prominently on twitter. Had a brief chat followed by email communication with Software Engineer Daily Host : Jeff. I really enjoy his podcast. It's my daily dose of getting new ideas on technology. Here are some of suggestions I may look into.
   
-  i) In order to become better developer I need to build/develope things of my own as pet projects.
-  ii) Java as language is more suitable for enterprise level contribution, I may need to invest on a secondary language.
-  iii) That language could be ExpressJS, Ruby and Rails or Python.
-  iv) I don't to put much time on javascript framework as their life span very brief. So it's a choice between Ruby Vs Python.
+     i) In order to become better developer I need to       build/develope things of my own as pet projects.
+     ii) Java as language is more suitable for enterprise level contribution, I may need to invest on a secondary language.
+     iii) That language could be ExpressJS, Ruby and Rails or Python.
+     iv)  I don't to put much time on javascript framework as their life span very brief. So it's a choice between Ruby Vs Python.
   v) While both are very popular language with huge fan base; Ruby is more alligned towards web developement while Python is more generalistic language.
   vi) Based on above considerations, I would like to learn, experiment on Python. 
   vii) I can use my Python expertise in below areas
-       a. As secondary programming language.
-       b. Code competetion.
-       c. Writting automation scripts.
-       d. Developing faster and smaller POC for my ideas.
-       e. Interact with cloud provider APIs.
+           a. As secondary programming language.
+	       b. Code competetion.
+           c. Writting automation scripts.
+           d. Developing faster and smaller POC for my ideas.
+           e. Interact with cloud provider APIs.
        
 3. As suggested by Jeff, in order to be cloud expert, I need to first interact/experience with cloud provider APIs. 
    I may try something like below

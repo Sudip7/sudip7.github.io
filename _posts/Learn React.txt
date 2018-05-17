@@ -1,0 +1,93 @@
+Learn react
+
+Getting started .
+
+1. Using react generator
+
+   npx create-react-app learn-react
+ it will install react,react-dom and react-scripts into the system
+
+   npx works with npm 5.2+ higher
+   (use npm -g install npm to upgrade npm in windows)
+
+After successfull installation:
+
+cd learn-react
+npm start
+
+The app runs on localhost:3000 (dev mode)
+
+2. Adding new component/class
+
+We can add new class/component by extending React.Component. Here we are going to add new component under /src/pages directory.
+Create new file Detail.jsx with following component.
+
+import React from 'react';
+
+class Detail extends React.Component {
+    render() {
+        return <p>This is React rendering HTML!</p>;
+    }
+}
+
+export default Detail;
+
+// Code explanation:
+
+
+
+    import React from 'react' loads the React library, which is pretty central to our whole application and thus is required.
+
+    class Detail extends React.Component { defines a new React component. React components can be big (like pages) or small (like a custom component to render breadcrumbs) and they are very flexible.
+
+    render() { starts the render() method of our component. This is called by React when the component needs to be drawn to the screen, and needs to return something that can be drawn in the browser.
+
+    What's left in this class is just the closing brace } that ends the render() method and the second closing brace that ends the class we're creating.
+    
+    export default Detail; The "export" keyword means this component is being exposed to the rest of our app to use, and "default" means it's the only thing this class will expose.
+
+
+In order to see the changes we made in Detail.jsx class we have to import the component in index.js page.
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import Detail from './pages/Detail';
+
+ReactDOM.render(
+    <Detail />,
+    document.getElementById('root') // here 'root' is the parent div defined in index.html
+);
+
+Now new text message should be rendered in the browser.
+
+3. React Props:
+
+When we use any React component we can pass it some input data that we want it to work with.
+These properties are called "props" and are read-only values that define the basic starting point for a component.
+
+In Index.js passing the props to Detail component
+
+ReactDOM.render(
+    <Detail message="This is coming from props!" />,
+    document.getElementById('app')
+);
+
+Accessing the props in Detail.jsx 
+
+class Detail extends React.Component {
+    render() {
+        return <p>{this.props.message}</p>;
+    }
+}
+
+Note : we should consider them read only for the component they belong to, and change them only from the component that created them.
+
+
+4. Generating random values for pages
+
+workspace : https://codesandbox.io/s/7j12jl0n76
+
+
+React code:
+https://codesandbox.io/s/7j12jl0n76
